@@ -1,0 +1,296 @@
+Fan deactivated: OK
+Sending: G90 X1.0 Y1.0
+DISPLAY: 0
+DISPLAY: 1
+DISPLAY: 2
+DISPLAY: 3
+DISPLAY: 6
+DISPLAY: 9
+DISPLAY: 14
+Sending: G90 X1.02 Y1.0
+MINIMOVE: X1.02 Y1.0
+Sending: G90 X1.04 Y1.0
+MINIMOVE: X1.04 Y1.0
+Sending: G90 X1.06 Y1.0
+MINIMOVE: X1.06 Y1.0
+Sending: G90 X1.08 Y1.0
+MINIMOVE: X1.08 Y1.0
+Fan deactivated: OK
+Sending: G90 X1.0 Y1.0
+DISPLAY: 1
+Sending: G90 X1.02 Y1.0
+MINIMOVE: X1.02 Y1.0
+Sending: G90 X1.04 Y1.0
+MINIMOVE: X1.04 Y1.0
+Sending: G90 X1.06 Y1.0
+MINIMOVE: X1.06 Y1.0
+Sending: G90 X1.08 Y1.0
+MINIMOVE: X1.08 Y1.0
+Sending: G90 X1.1 Y1.0
+MINIMOVE: X1.1 Y1.0
+Fan deactivated: OK
+Sending: G90 X2.0 Y1.0
+DISPLAY: 6
+Sending: G90 X2.0 Y1.02
+MINIMOVE: X2.0 Y1.02
+Sending: G90 X2.0 Y1.04
+MINIMOVE: X2.0 Y1.04
+Fan deactivated: OK
+Sending: G90 X1.0 Y0.0
+DISPLAY: 0
+Sending: G90 X1.0 Y-0.02
+MINIMOVE: X1.0 Y-0.02
+Sending: G90 X1.0 Y-0.04
+MINIMOVE: X1.0 Y-0.04
+Fan deactivated: OK
+2025-10-07 10:50:24.695037 Sending: G90 X1.0 Y-0.04
+Sending: PUNTO 
+2025-10-07 10:51:01.935264 Finished hitting cycle: OK
+Fan deactivated: OK
+2025-10-07 10:51:06.971707 Sending: G90 X1.06 Y1.0
+Sending: PUNTO 
+2025-10-07 10:51:48.284031 Finished hitting cycle: OK
+Fan deactivated: OK
+2025-10-07 10:51:53.375983 Sending: G90 X1.0 Y2.0
+Sending: PUNTO 
+2025-10-07 10:52:34.660214 Finished hitting cycle: OK
+Fan deactivated: OK
+2025-10-07 10:52:39.741609 Sending: G90 X1.0 Y3.0
+Sending: PUNTO 
+Fan deactivated: OK
+2025-10-07 10:53:55.171086 Sending: G90 X1.0 Y-0.04
+Sending: PUNTO 
+2025-10-07 10:54:14.428704 Finished hitting cycle: OK
+Fan deactivated: OK
+2025-10-07 10:54:19.479609 Sending: G90 X1.06 Y1.0
+Sending: PUNTO 
+2025-10-07 10:54:31.013524 Finished hitting cycle: OK
+Fan deactivated: OK
+2025-10-07 10:54:36.064804 Sending: G90 X1.0 Y2.0
+Sending: PUNTO 
+2025-10-07 10:54:47.652706 Finished hitting cycle: OK
+Fan deactivated: OK
+2025-10-07 10:54:52.712187 Sending: G90 X1.0 Y3.0
+Sending: PUNTO 
+2025-10-07 10:55:04.190827 Finished hitting cycle: OK
+Sending: G90 X0.98 Y3.0
+MINIMOVE: X0.98 Y3.0
+Sending: G90 X0.96 Y3.0
+MINIMOVE: X0.96 Y3.0
+Sending: G90 X0.94 Y3.0
+MINIMOVE: X0.94 Y3.0
+Sending: G90 X0.9199999999999999 Y3.0
+MINIMOVE: X0.9199999999999999 Y3.0
+Sending: G90 X0.8999999999999999 Y3.0
+MINIMOVE: X0.8999999999999999 Y3.0
+Sending: G90 X0.8799999999999999 Y3.0
+MINIMOVE: X0.8799999999999999 Y3.0
+Fan deactivated: OK
+Sending: G90 X1.0 Y1.875
+DISPLAY: 1
+Sending: G90 X0.98 Y1.875
+MINIMOVE: X0.98 Y1.875
+Sending: G90 X0.96 Y1.875
+MINIMOVE: X0.96 Y1.875
+Sending: G90 X0.94 Y1.875
+MINIMOVE: X0.94 Y1.875
+Sending: G90 X0.9199999999999999 Y1.875
+MINIMOVE: X0.9199999999999999 Y1.875
+Sending: G90 X0.8999999999999999 Y1.875
+MINIMOVE: X0.8999999999999999 Y1.875
+Sending: G90 X0.8799999999999999 Y1.875
+MINIMOVE: X0.8799999999999999 Y1.875
+Sending: G90 X0.8799999999999999 Y1.855
+MINIMOVE: X0.8799999999999999 Y1.855
+Sending: G90 X0.8799999999999999 Y1.835
+MINIMOVE: X0.8799999999999999 Y1.835
+Fan deactivated: OK
+Sending: G90 X1.0 Y1.875
+DISPLAY: 1
+Sending: G90 X1.0 Y1.9
+MINIMOVE: X0.98 Y1.875
+Sending: G90 X1.0 Y1.9
+MINIMOVE: X0.98 Y1.9
+Sending: G90 X1.0 Y1.9
+MINIMOVE: X0.98 Y1.9
+Sending: G90 X1.0 Y1.9
+MINIMOVE: X0.98 Y1.9
+Sending: G90 X1.0 Y1.9
+MINIMOVE: X0.98 Y1.9
+Sending: G90 X1.0 Y1.9
+MINIMOVE: X1.0 Y1.88
+Sending: G90 X1.0 Y1.9
+MINIMOVE: X1.0 Y1.88
+Sending: G90 X1.0 Y1.9
+MINIMOVE: X1.0 Y1.88
+Sending: G90 X1.0 Y1.9
+MINIMOVE: X1.0 Y1.88
+Sending: G90 X1.0 Y1.9
+MINIMOVE: X1.0 Y1.88
+Fan deactivated: OK
+Sending: G90 X1.0 Y1.875
+DISPLAY: 1
+Sending: G90 X0.98 Y1.875
+MINIMOVE: X0.98 Y1.875
+Sending: G90 X0.96 Y1.875
+MINIMOVE: X0.96 Y1.875
+Sending: G90 X0.94 Y1.875
+MINIMOVE: X0.94 Y1.875
+Sending: G90 X0.94 Y1.855
+MINIMOVE: X0.94 Y1.855
+Sending: G90 X0.94 Y1.835
+MINIMOVE: X0.94 Y1.835
+Sending: G90 X0.94 Y1.815
+MINIMOVE: X0.94 Y1.815
+Sending: G90 X0.94 Y1.795
+MINIMOVE: X0.94 Y1.795
+Fan deactivated: OK
+2025-10-07 15:17:11.725665 Sending: G90 X1.0 Y0.0
+Sending: PUNTO 
+2025-10-07 15:17:26.116733 Finished hitting cycle: OK
+Fan deactivated: OK
+2025-10-07 15:17:31.193288 Sending: G90 X1.0 Y0.5
+Sending: PUNTO 
+2025-10-07 15:17:40.528001 Finished hitting cycle: OK
+Fan deactivated: OK
+2025-10-07 15:17:45.581605 Sending: G90 X1.0 Y1.0
+Sending: PUNTO 
+2025-10-07 15:17:55.015264 Finished hitting cycle: OK
+Fan deactivated: OK
+2025-10-07 15:18:00.019547 Sending: G90 X1.0 Y1.5
+Sending: PUNTO 
+2025-10-07 15:18:09.504873 Finished hitting cycle: OK
+Fan deactivated: OK
+2025-10-07 15:18:14.619509 Sending: G90 X1.0 Y2.0
+Sending: PUNTO 
+2025-10-07 15:18:23.921239 Finished hitting cycle: OK
+Fan deactivated: OK
+2025-10-07 15:18:28.932498 Sending: G90 X1.0 Y2.5
+Sending: PUNTO 
+2025-10-07 15:18:38.283621 Finished hitting cycle: OK
+Fan deactivated: OK
+2025-10-07 15:18:43.490363 Sending: G90 X1.5 Y2.5
+Sending: PUNTO 
+2025-10-07 15:18:53.068219 Finished hitting cycle: OK
+Fan deactivated: OK
+2025-10-07 15:19:18.258812 Sending: G90 X1.0 Y0.0
+Sending: PUNTO 
+2025-10-07 15:19:35.733451 Finished hitting cycle: OK
+Fan deactivated: OK
+2025-10-07 15:19:40.789798 Sending: G90 X1.0 Y0.5
+Sending: PUNTO 
+2025-10-07 15:19:50.183986 Finished hitting cycle: OK
+Fan deactivated: OK
+2025-10-07 15:19:55.220566 Sending: G90 X1.0 Y1.0
+Sending: PUNTO 
+2025-10-07 15:20:04.641236 Finished hitting cycle: OK
+Fan deactivated: OK
+2025-10-07 15:20:09.660022 Sending: G90 X1.0 Y1.5
+Sending: PUNTO 
+2025-10-07 15:20:19.077482 Finished hitting cycle: OK
+Fan deactivated: OK
+2025-10-07 15:20:24.126697 Sending: G90 X1.0 Y2.0
+Sending: PUNTO 
+2025-10-07 15:20:33.492086 Finished hitting cycle: OK
+Fan deactivated: OK
+2025-10-07 15:20:38.537539 Sending: G90 X1.0 Y2.5
+Sending: PUNTO 
+2025-10-07 15:20:47.924916 Finished hitting cycle: OK
+Fan deactivated: OK
+2025-10-07 15:20:53.014206 Sending: G90 X1.5 Y2.5
+Sending: PUNTO 
+2025-10-07 15:21:02.673395 Finished hitting cycle: OK
+Fan deactivated: OK
+2025-10-07 15:21:07.765131 Sending: G90 X1.5 Y2.0
+Sending: PUNTO 
+2025-10-07 15:21:17.128705 Finished hitting cycle: OK
+Fan deactivated: OK
+2025-10-07 15:21:22.203103 Sending: G90 X1.5 Y1.5
+Sending: PUNTO 
+2025-10-07 15:21:31.541924 Finished hitting cycle: OK
+Fan deactivated: OK
+2025-10-07 15:21:36.593498 Sending: G90 X1.5 Y1.0
+Sending: PUNTO 
+2025-10-07 15:21:46.038322 Finished hitting cycle: OK
+Fan deactivated: OK
+2025-10-07 15:21:51.077799 Sending: G90 X1.5 Y0.5
+Sending: PUNTO 
+2025-10-07 15:22:00.726467 Finished hitting cycle: OK
+Fan deactivated: OK
+2025-10-07 15:22:05.784690 Sending: G90 X1.5 Y0.0
+Sending: PUNTO 
+2025-10-07 15:22:15.201572 Finished hitting cycle: OK
+Fan deactivated: OK
+2025-10-07 15:31:36.721766 Sending: G90 X1.0 Y0.0
+Sending: PUNTO 
+2025-10-07 15:31:46.264740 Finished hitting cycle: OK
+Fan deactivated: OK
+2025-10-07 15:31:48.328590 Sending: G90 X1.0 Y0.5
+Sending: PUNTO 
+2025-10-07 15:31:57.987603 Finished hitting cycle: OK
+Fan deactivated: OK
+2025-10-07 15:32:00.017786 Sending: G90 X1.0 Y1.0
+Sending: PUNTO 
+2025-10-07 15:32:09.606611 Finished hitting cycle: OK
+Fan deactivated: OK
+2025-10-07 15:32:11.661735 Sending: G90 X1.0 Y1.5
+Sending: PUNTO 
+2025-10-07 15:32:21.286982 Finished hitting cycle: OK
+Fan deactivated: OK
+2025-10-07 15:32:23.337323 Sending: G90 X1.0 Y2.0
+Sending: PUNTO 
+2025-10-07 15:32:32.687234 Finished hitting cycle: OK
+Fan deactivated: OK
+2025-10-07 15:32:34.714465 Sending: G90 X1.0 Y2.5
+Sending: PUNTO 
+2025-10-07 15:32:44.332497 Finished hitting cycle: OK
+Fan deactivated: OK
+2025-10-07 15:32:46.376648 Sending: G90 X1.5 Y2.5
+Sending: PUNTO 
+2025-10-07 15:32:55.996526 Finished hitting cycle: OK
+Fan deactivated: OK
+2025-10-07 15:32:58.046927 Sending: G90 X1.5 Y2.0
+Sending: PUNTO 
+2025-10-07 15:33:07.701966 Finished hitting cycle: OK
+Fan deactivated: OK
+2025-10-07 15:33:09.722375 Sending: G90 X1.5 Y1.5
+Sending: PUNTO 
+2025-10-07 15:33:19.349000 Finished hitting cycle: OK
+Fan deactivated: OK
+2025-10-07 15:33:21.406524 Sending: G90 X1.5 Y1.0
+Sending: PUNTO 
+2025-10-07 15:33:31.022601 Finished hitting cycle: OK
+Fan deactivated: OK
+2025-10-07 15:33:33.073079 Sending: G90 X1.5 Y0.5
+Sending: PUNTO 
+2025-10-07 15:33:42.715725 Finished hitting cycle: OK
+Fan deactivated: OK
+2025-10-07 15:33:44.742138 Sending: G90 X1.5 Y0.0
+Sending: PUNTO 
+2025-10-07 15:33:54.431321 Finished hitting cycle: OK
+Fan deactivated: OK
+2025-10-07 16:05:10.864872 Sending: G90 X1.0 Y0.0
+Sending: PUNTO 
+2025-10-07 16:05:20.323647 Finished hitting cycle: OK
+Fan deactivated: OK
+2025-10-07 16:05:22.336201 Sending: G90 X1.0 Y0.5
+Sending: PUNTO 
+2025-10-07 16:05:31.952987 Finished hitting cycle: OK
+Fan deactivated: OK
+2025-10-07 16:05:34.030421 Sending: G90 X1.0 Y1.0
+Sending: PUNTO 
+2025-10-07 16:05:43.634733 Finished hitting cycle: OK
+Fan deactivated: OK
+2025-10-07 16:05:45.729796 Sending: G90 X1.0 Y1.5
+Sending: PUNTO 
+2025-10-07 16:05:55.319452 Finished hitting cycle: OK
+Fan deactivated: OK
+2025-10-07 16:05:57.421502 Sending: G90 X1.0 Y2.0
+Sending: PUNTO 
+2025-10-07 16:06:07.014399 Finished hitting cycle: OK
+Fan deactivated: OK
+2025-10-07 16:06:09.027543 Sending: G90 X1.0 Y2.5
+Sending: PUNTO 
+2025-10-07 16:06:18.650217 Finished hitting cycle: OK
+Fan deactivated: OK
+2025-10-07 16:06:20.706476 Sending: G90 X1.5 Y2.5
